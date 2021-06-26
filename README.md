@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityarizqi
 - 👀 I’m a fullstack developer
-- 👀 I have mastered the programming language java, php, ajax. I can use laravel and bootstrap framework, native is also fine
+- 👀 I have mastered the programming language java, php, JavaScript. I can use laravel and bootstrap framework, native is also fine
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me adityarizqi1010@gmail.com
 
