@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **IDV Technologies**
 
-- 🌱 I’m currently learning **Golang and NodeJs**
-
 - 👨‍💻 All of my projects are available at [https://gwadit.net](https://gwadit.net)
 
 - 💬 Ask me about **PHP, Java and Laravel**
