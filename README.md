@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Rizqi</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarizqi&label=Profile%20views&color=0e75b6&style=flat" alt="adityarizqi" /> </p>
 
 - 🔭 I’m currently working on **IDV Technologies**
 
 - 👨‍💻 All of my projects are available at [https://gwadit.net](https://gwadit.net)
-
-- 💬 Ask me about **PHP, Java and Laravel**
 
 - 📫 How to reach me **aditya@idvapp.com**
 
