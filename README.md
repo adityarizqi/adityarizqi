@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gwadit.net](https://gwadit.net)
 
-- 📫 How to reach me **aditya@idvapp.com**
+- 📫 How to reach me **me@gwadit.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
