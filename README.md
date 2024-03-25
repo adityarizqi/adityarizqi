@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **PT. Sentra Vidya Utama** as a Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://gwadit.net](https://gwadit.net)
+- 👨‍💻 Portfolio [https://bit.ly/aditya-portofolio](https://bit.ly/aditya-portofolio)
 
 - 📫 How to reach me **me@gwadit.net**
