@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aditya Rizqi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarizqi&label=Profile%20views&color=0e75b6&style=flat" alt="adityarizqi" /> </p>
+## About Me
 
-- 🔭 I’m currently working on **PT. Sentra Vidya Utama** as a Full Stack Developer
+I am a Software Engineer specializing in Laravel and JavaScript development. My passion lies in building robust and scalable web applications, with hands-on experience in projects such as:
 
-- 👨‍💻 Portfolio [bit.ly/aditya-portofolio](https://bit.ly/aditya-portofolio)
+- **Computer-Based Test (CBT) Systems:** Architected and implemented online testing solutions designed for reliability and performance.
+- **Point of Sales (POS) Solutions:** Developed integrated POS platforms, streamlining retail and transaction processes for various businesses.
+- **E-commerce Platforms:** Built and maintained end-to-end e-commerce websites, ensuring seamless user experiences from product listing to checkout.
 
-- 📫 How to reach me **me@gwadit.net**
+I am always eager to explore new technologies and deliver innovative solutions to complex problems.
+
+**Hobbies:** When I am not coding, I enjoy traveling and exploring new cultures and destinations.
+
+**Connect with me:** 
+[LinkedIn: www.linkedin.com/in/adityarzq](https://www.linkedin.com/in/adityarzq)
